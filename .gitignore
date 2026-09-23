@@ -1,0 +1,20 @@
+# Hexo built output (never commit; built by GitHub Actions)
+public/
+.deploy_git/
+
+# Hexo local cache
+db.json
+
+# Dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-error.log*
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
