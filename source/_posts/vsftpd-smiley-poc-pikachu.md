@@ -25,7 +25,7 @@ tags:
 | 工具 | 本 PoC（`smiley_poc.py`）、自检脚本 `check_target.py`、bash / PowerShell |
 | 代码位置 | `smiley_poc.py`、`mock_vsftpd.py` |
 
-合规说明：PoC 默认只执行 `id`，不落地文件、不改配置；对真实主机使用前必须取得书面授权。
+**安全边界**：PoC 默认只执行 `id`，不落地文件、不改配置；对真实主机使用前必须取得书面授权。
 
 ---
 
